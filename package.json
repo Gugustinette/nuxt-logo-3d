@@ -1,15 +1,15 @@
 {
-  "name": "starter-3d",
+  "name": "nuxt-logo-3d",
   "type": "module",
   "version": "0.0.1",
   "private": true,
-  "author": "John Doe <john.doe@fibbo.js>",
-  "homepage": "https://johndoe.github.io/starter-3d",
+  "author": "Augustin Mercier <gugustinette@proton.me>",
+  "homepage": "https://gugustinette.github.io/nuxt-logo-3d",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johndoe/starter-3d.git"
+    "url": "git+https://github.com/gugustinette/nuxt-logo-3d.git"
   },
-  "bugs": "https://github.com/johndoe/starter-3d/issues",
+  "bugs": "https://github.com/gugustinette/nuxt-logo-3d/issues",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
