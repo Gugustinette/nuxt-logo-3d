@@ -1,18 +1,14 @@
-# starter-3d
-A 3d game starter based on Vite
+# Nuxt Logo 3d
+
+A web viewer for the 3D Nuxt logo made by [Sébastien Chopin](https://twitter.com/Atinux), available on [Maker World](https://makerworld.com/fr/models/960852#profileId-930791).
+
+- Made with [Fibbo](https://fibbo.dev).
 
 ## Usage
-
-- Clone the repository
-
-```bash
-npx tiged fibbojs/starter-3d starter-3d
-```
 
 - Install the dependencies
 
 ```bash
-cd starter-3d
 npm install
 ```
 

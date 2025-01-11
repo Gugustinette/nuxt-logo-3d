@@ -20,6 +20,7 @@
     "@fibbojs/core": "^0.0.13",
     "@fibbojs/devtools": "^0.0.13",
     "@fibbojs/event": "^0.0.13",
+    "@types/three": "^0.172.0",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",
     "vite-plugin-top-level-await": "^1.4.4",
