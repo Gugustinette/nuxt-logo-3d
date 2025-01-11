@@ -1,4 +1,5 @@
 import * as THREE from 'three'
+// @ts-ignore
 import { STLLoader } from 'three/examples/jsm/loaders/STLLoader'
 import type { FModelOptions, FScene } from '@fibbojs/3d'
 import { FModel } from '@fibbojs/3d'
@@ -34,7 +35,7 @@ export class FSTL extends FModel {
       this.path,
       (geometry: THREE.BufferGeometry) => {
           // Create the mesh from the stl geometry
-          this.__MESH__ = new THREE.Mesh(geometry, material)
+          this.__MESH__ = new THREE.Mesh(geometry, material) as any
     
           // Define mesh transforms
           this.defineMeshTransforms()
